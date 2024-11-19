@@ -1,6 +1,25 @@
-.color {
-    background-color: black;
-}
 .header {
+    background-color: black;
+    display: flex;
+    margin: auto;
+
+}
+.header-title {
     color:yellow;
+}
+
+.background {
+    background-color: black;
+    display: block;
+    margin: auto;
+}
+
+.main-text-color {
+    color: yellow;
+
+}
+.footer-text {
+    color: yellow;
+    display: flex;
+    margin: auto;
 }
